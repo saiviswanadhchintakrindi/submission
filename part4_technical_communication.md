@@ -8,3 +8,6 @@ My experience with Python and backend development gave me better insight into th
 Among the most challenging implementation issues will be how to handle race conditions involving ongoing sends and producer requested shutdowns. Multiple asynchronous tasks may run concurrently, which means cleanup might start before the full completion of message delivery. Another complexity is handling the cancellation of internal tasks safely, without leaving canceled asyncio tasks running in the background.
 
 ---
+# Integrity Declaration
+
+"I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words."
